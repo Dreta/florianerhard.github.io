@@ -1,0 +1,4 @@
+main:
+    - { url: '/', text: 'Blog' }
+    - { url: '/about', text: 'About' }
+    - { url: 'https://github.com/florianerhard', text: 'Fork on GitHub' }
