@@ -1,1 +1,3 @@
-my-blog
+_site
+.sass-cache
+.c9
