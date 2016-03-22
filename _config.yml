@@ -1,7 +1,7 @@
 # Site settings
 title: Bioinformatics TNG
 url: "http://florianerhard.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/blog" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 description: >
   This is my blog
 
