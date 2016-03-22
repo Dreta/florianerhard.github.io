@@ -22,7 +22,8 @@ $color-link-hover: #069;
 
 $header-bg: #000000;
 $header-bg-hover: #cccccc;
-$header-link: #000;
+$header-link: #ccc;
+$header-link-hover: #000;
 $header-fg: #FFF;
 
 @mixin media-query($device) {
