@@ -13,7 +13,6 @@ Rottendorfer Straße 2b<br/>
 97072 Würzburg<br/>
 
 ### Kontakt:
-Telefon: 017620100351<br/>
 E-Mail: florian [AT] erhard-mail [DOT] de
 
 
