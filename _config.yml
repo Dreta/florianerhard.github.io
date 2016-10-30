@@ -6,7 +6,8 @@ description: >
   This is my blog
 
 # Your information
-email: flo@erhard-mail.de
+email: <script type='text/javascript'><!-- var s="gmpsjboAfsibse.nbjm/ef"; m=""; for (i=0; i<s.length; i++) {	if(s.charCodeAt(i) == 28){	  m+= '&';} else if (s.charCodeAt(i) == 23) {	  m+= '!';} else {	  m+=String.fromCharCode(s.charCodeAt(i)-1);	}}document.write(m);//--> </script>
+
 author: Florian Erhard
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
