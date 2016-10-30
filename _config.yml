@@ -1,18 +1,17 @@
 # Site settings
-title: Gone viral
+title: Gone viral - a blog about computational methods in virology
 url: "http://florianerhard.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 description: >
   This is my blog
 
 # Your information
-email: <script type='text/javascript'><!-- var s="gmpsjboAfsibse.nbjm/ef"; m=""; for (i=0; i<s.length; i++) {	if(s.charCodeAt(i) == 28){	  m+= '&';} else if (s.charCodeAt(i) == 23) {	  m+= '!';} else {	  m+=String.fromCharCode(s.charCodeAt(i)-1);	}}document.write(m);//--> </script>
-
+email: florian@erhard-mail.de
 author: Florian Erhard
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: I am an assistant professor in the Institute for Virology and Immunobiology at the University of W&uuml;rzburg. I am a bioinformatician by training, and these are my thoughts about computational biology, bioinformatics in virology and everything else... 
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  florianerhard
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
