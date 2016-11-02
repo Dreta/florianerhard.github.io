@@ -7,6 +7,7 @@ public: true
 (In german as required by German law)
 
 # Impressum
+
 ## Angaben gemäß § 5 TMG:
 Florian Erhard	<br/>
 Rottendorfer Straße 2b<br/>
@@ -17,6 +18,7 @@ E-Mail: florian [AT] erhard-mail [DOT] de
 
 
 # Haftungsausschluss (Disclaimer)
+
 ## Haftung für Inhalte
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
 
@@ -34,6 +36,7 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 
 
 # Datenschutzerklärung:
+
 ## Datenschutz
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 
