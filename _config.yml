@@ -15,7 +15,8 @@ github_username:  florianerhard
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: goneviral   # get one: https://disqus.com/admin/signup/
+disqus_shortname: goneviral
+# get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
