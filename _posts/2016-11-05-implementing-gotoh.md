@@ -162,7 +162,7 @@ I ran the different variants three times on my laptop:
 
 These are the results:
 
-![Benchmarking results]({{ site.url }}/assets/gotoh.png)
+![Benchmarking results]({{ site.url }}/assets/gotoh/gotoh.png)
 
 1. My laptop is really fast, as it only took 23 seconds instead of more than a minute (or Java 8 is so much faster than Java 6)
 2. There is no real difference between directly using chars as indices or encoding sequences as integer, the encoding variant even appears to be a bit slower (possibly due to the overhead of the encoding)
