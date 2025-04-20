@@ -11,7 +11,7 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
 	<script type="text/x-mathjax-config">
-	MathJax.Hub.Config({
+	MathJax = {
 	  jax: ["input/TeX", "output/HTML-CSS"],
 	  tex2jax: {
 	    inlineMath: [ ['$', '$'] ],
@@ -21,8 +21,10 @@
 	  },
 	  messageStyle: "none",
 	  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
-	});
+	};
 	</script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+		<script type="text/javascript" id="MathJax-script" async
+	  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+	</script>
 
 </head>
